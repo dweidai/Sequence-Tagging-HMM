@@ -1,0 +1,15 @@
+To run the baseline model,
+go to the directory and type in:
+  python Baseline.py
+
+To run the baseline improved model,
+stay in the same directory and type in the terminal:
+  python Improved_Baseline.py
+
+To run the trigram HMM model,
+stay in the same directory and type in the terminal:
+  python Trigramhmm.py
+
+To run the trigram HMM improved,
+stary in the same directory and type in the terminal:
+  python Improved_Trigramhmm.py
